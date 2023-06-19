@@ -1,4 +1,4 @@
-package com.swarnamythili.farmec.Model;
+package com.solaimeenal.farmec.Model;
 
 public class Admins {
     private String name, phone, password, image, address;
