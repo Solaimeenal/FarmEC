@@ -1,4 +1,4 @@
-package com.swarnamythili.farmec.Model;
+package com.solaimeenal.farmec.Model;
 
 public class Cart {
     private String pid,pname,price,quantity,discount;
