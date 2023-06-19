@@ -1,4 +1,4 @@
-package com.swarnamythili.farmec.Interface;
+package com.solaimeenal.farmec.Interface;
 import android.view.View;
 
 public interface ItemClickListner
