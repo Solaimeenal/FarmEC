@@ -1,4 +1,4 @@
-package com.swarnamythili.farmec.Model;
+package com.solaimeenal.farmec.Model;
 
 public class Products {
     private String pname, description, price, image, category, pid, date, time;
